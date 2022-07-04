@@ -1,0 +1,14 @@
+body{
+    background-color: yellow;
+}
+button{
+    background-color: #166FE5;
+    border-color: #166FE5;
+    border-radius: 9px;
+    color: white;
+    padding: 20px 60px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
